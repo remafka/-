@@ -1,6 +1,6 @@
 # -
 
-![jj](https://github.com/remafka/-/blob/ed1741b58922dc5dfd2caafaf047d8af689cac01/grafic.jpg)
+![jj](https://github.com/remafka/-/grafic.jpg)
 
 ![Иллюстрация к проекту](https://github.com/jon/coolproject/raw/master/image/image.png)
 
